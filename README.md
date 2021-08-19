@@ -11,7 +11,7 @@
 
 ---
 3.	Мои проекты:
-*  [File-sharing (Fullstack)](https://github.com/file-sharing-erp-team/file-sharing)
+*  [File-sharing (Back-end)](https://github.com/file-sharing-erp-team/file-sharing)
 *  [Grand Core Openschool (Back-end)](https://github.com/grandcore/openschool)
 
 ---
