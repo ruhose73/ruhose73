@@ -12,7 +12,9 @@
 ---
 3.	Мои проекты:
 *  [File-sharing (Back-end)](https://github.com/file-sharing-erp-team/file-sharing)
+*  [University-ecosystem (Back-end)](https://github.com/file-sharing-erp-team/university-ecosystem)
 *  [Grand Core Openschool (Back-end)](https://github.com/grandcore/openschool)
+*  [Last hackaton (Back-end)](https://github.com/badcodeTeam/code)
 
 ---
 4.	Организации:
@@ -23,4 +25,4 @@
 5.	Контакты:
 *  Email: ruhose73@mail.ru 
 *  [VK](https://vk.com/chegevarys)
-*  Telegram: @Toropcha
+*  [Telegram](https://t.me/Toropcha)
