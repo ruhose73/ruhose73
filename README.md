@@ -8,6 +8,7 @@
 *  Node.js
 *  Express
 *  Mongo / PostgreSQL
+*  Swagger
 
 ---
 3.	Мои проекты:
