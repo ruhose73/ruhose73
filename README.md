@@ -12,6 +12,7 @@
 
 ---
 3.	Мои проекты:
+*  [Universuty Ecosystem Backend](https://github.com/ruhose73/university-ecosystem-back)
 *  [File-sharing (Back-end)](https://github.com/file-sharing-erp-team/file-sharing)
 *  [University-ecosystem (Back-end)](https://github.com/file-sharing-erp-team/university-ecosystem)
 *  [Grand Core Openschool (Back-end)](https://github.com/grandcore/openschool)
