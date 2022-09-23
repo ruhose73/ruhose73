@@ -1,11 +1,11 @@
-1.	Обо мне:
-*  Город: Москва/Обнинск
-*  Обучаюсь в магистратуре NRNU MEPhi
-*  Заинтересован в backend-разработке
-*  Формат работы: удаленно/гибридно
+1. About:
+*  Moscow / Obninsk 
+*  Studying for a master's degree at National Research Nuclear University MEPhI
+*  Interested in backend development
+*  Remote work / hybrid mode
 
 ---
-2.  С чем работаю:
+2. Skills
 *  Node.js
 *  Express
 *  Mongo / PostgreSQL / Raw SQL
@@ -13,25 +13,25 @@
 *  Docker
 
 ---
-3.  На данный момент изучаю:
+3. Explore
+*  Nest
 *  Java + Spring
 *  Redis
-*  Nest
 
 ---
-4.	Мои проекты:
+4. Projects
 *  [Universuty Ecosystem Backend](https://github.com/ruhose73/university-ecosystem-back)
 *  [File-sharing (Back-end)](https://github.com/file-sharing-erp-team/file-sharing)
 *  [Grand Core Openschool (Back-end)](https://github.com/grandcore/openschool)
 *  [Last hackaton (Back-end)](https://github.com/badcodeTeam/code)
 
 ---
-5.	Организации:
+5. Organizations
 *  [GrandCore Foundation](https://github.com/grandcore)
 *  [File Sharing Team](https://github.com/file-sharing-erp-team)
 
 ---
-6.	Контакты:
+6. Contacts:
 *  Email: ruhose73@gmail.com 
 *  [VK](https://vk.com/chegevarys)
 *  [Telegram](https://t.me/Toropcha)
