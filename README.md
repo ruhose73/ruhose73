@@ -35,6 +35,6 @@
 
 ---
 6. Contacts:
-*  Email: ruhose73@gmail.com 
+*  [ruhose73@gmail.com](ruhose73@gmail.com)
 *  [VK](https://vk.com/chegevarys)
 *  [Telegram](https://t.me/Toropcha)
