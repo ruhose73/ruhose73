@@ -8,15 +8,15 @@
 2.  С чем работаю:
 *  Node.js
 *  Express
-*  Mongo / PostgreSQL
+*  Mongo / PostgreSQL / Raw SQL
 *  Swagger
+*  Docker
 
 ---
 3.  На данный момент изучаю:
 *  Java + Spring
 *  Redis
-*  Docker
-*  TypeScript
+*  Nest
 
 ---
 4.	Мои проекты:
