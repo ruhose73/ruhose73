@@ -6,9 +6,12 @@
 
 ---
 2. Skills
+*  Javascript / Typescript C / C++
 *  Node.js
 *  Express
-*  Mongo / PostgreSQL / Raw SQL
+*  SQL (PostgreSQL, MySQL)
+*  NoSQL (MongoDB)
+*  Sequelize / TypeORM
 *  Swagger
 *  Docker
 
