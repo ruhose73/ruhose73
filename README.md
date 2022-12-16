@@ -8,18 +8,18 @@
 2. Skills
 *  Javascript / Typescript C / C++
 *  Node.js
-*  Express
+*  Express / Nest
 *  SQL (PostgreSQL, MySQL)
 *  NoSQL (MongoDB)
 *  Sequelize / TypeORM
 *  Swagger
 *  Docker
+*  Redis
 
 ---
 3. Explore
-*  Nest
 *  Java + Spring
-*  Redis
+*  Kafka
 
 ---
 4. Projects
