@@ -1,17 +1,19 @@
 1. Summary:
+
 Junior web-developer specializing in back-end 
 development. Experienced with all stages of the 
 development cycle and information security 
 including pentest direction
 
+---
 2. Education:
 *  **2022 - present** Master of information systems Obninsk Institute of Nuclear Power Engineering National Research Nuclear University MEPhI
 *  **2018 - 2022** Bachelor of information systems Obninsk Institute of Nuclear Power Engineering National Research Nuclear University MEPhI
 
 ---
 3. Languages:
-*  Russian - native
-*  English - upper intermidiate
+*  **Russian** - native
+*  **English** - upper intermidiate
 
 ---
 4. Skills
@@ -33,10 +35,10 @@ including pentest direction
 
 ---
 6. Experience
-*  2022 - present backend developer [GLAVSTUDIO](http://glstd.pro/)
-*  2019-2021 Junior pentest engineer [ItProtect](https://itprotect.ru/)
-*  2018-2019 Junior information security engineer [ItProtect](https://itprotect.ru/)
-*  2017-2019 System administrator [ItProtect](https://itprotect.ru/)
+*  **2022 - present** backend developer [GLAVSTUDIO](http://glstd.pro/)
+*  **2019-2021** Junior pentest engineer [ItProtect](https://itprotect.ru/)
+*  **2018-2019** Junior information security engineer [ItProtect](https://itprotect.ru/)
+*  **2017-2019** System administrator [ItProtect](https://itprotect.ru/)
 
 ---
 7. Projects
@@ -49,11 +51,11 @@ including pentest direction
 
 ---
 8. Competitions
-*  2022 - Digital breakthrough
-*  2021 - Digital breakthrough
-*  2020 - Digital breakthrough
-*  2020 - HackAtom
-*  2019 - Digital breakthrough
+*  **2022** - Digital breakthrough
+*  **2021** - Digital breakthrough
+*  **2020** - Digital breakthrough
+*  **2020** - HackAtom
+*  **2019** - Digital breakthrough
 
 ---
 9. Organizations
