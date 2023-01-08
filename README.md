@@ -1,8 +1,8 @@
 1. About:
-*  🌍 Moscow / Obninsk 
-*  🧠 Studying for a master's degree at National Research Nuclear University MEPhI
-*  🤝 Interested in backend development
-*  🖥️ Remote work / hybrid mode
+*  Moscow / Obninsk 
+*  Studying for a master's degree at National Research Nuclear University MEPhI
+*  Interested in backend development
+*  Remote work / hybrid mode
 
 ---
 2. Skills
