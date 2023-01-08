@@ -34,7 +34,7 @@ Bachelor of information systems Obninsk Institute of Nuclear Power Engineering N
 ---
 ### 6. Experience ###
 *  **2022 - present**  
-backend developer [GLAVSTUDIO](http://glstd.pro/)
+backend developer [GlavStudio](http://glstd.pro/)
 *  **2019-2021**  
 Junior pentest engineer [ItProtect](https://itprotect.ru/)
 *  **2018-2019**  
