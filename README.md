@@ -9,12 +9,7 @@ Master of information systems Obninsk Institute of Nuclear Power Engineering Nat
 Bachelor of information systems Obninsk Institute of Nuclear Power Engineering National Research Nuclear University MEPhI
 
 ---
-### 3. Languages: ###
-*  **Russian** - native
-*  **English** - upper intermidiate
-
----
-### 4. Skills ###
+### 3. Skills ###
 *  Javascript / Typescript C / C++
 *  Node.js
 *  Express / Nest
@@ -27,12 +22,12 @@ Bachelor of information systems Obninsk Institute of Nuclear Power Engineering N
 *  Nginx
 
 ---
-### 5. Explore ###
+### 4. Explore ###
 *  Java + Spring
 *  Kafka
 
 ---
-### 6. Experience ###
+### 5. Experience ###
 *  **2022 - present**  
 backend developer [GlavStudio](http://glstd.pro/)
 *  **2019-2021**  
@@ -43,7 +38,7 @@ Junior information security engineer [ItProtect](https://itprotect.ru/)
 System administrator [ItProtect](https://itprotect.ru/)
 
 ---
-### 7. Projects ###
+### 6. Projects ###
 *  [Nest backend](https://github.com/ruhose73/test-backend-nest)
 *  [Express backend](https://github.com/ruhose73/test-backend)
 *  [Universuty Ecosystem Backend](https://github.com/ruhose73/university-ecosystem-back)
@@ -52,7 +47,7 @@ System administrator [ItProtect](https://itprotect.ru/)
 *  [Last hackaton (Back-end)](https://github.com/badcodeTeam/code)
 
 ---
-### 8. Competitions ###
+### 7. Competitions ###
 *  **2022** - Digital breakthrough
 *  **2021** - Digital breakthrough
 *  **2020** - Digital breakthrough
@@ -60,12 +55,12 @@ System administrator [ItProtect](https://itprotect.ru/)
 *  **2019** - Digital breakthrough
 
 ---
-### 9. Organizations ###
+### 8. Organizations ###
 *  [GrandCore Foundation](https://github.com/grandcore)
 *  [File Sharing Team](https://github.com/file-sharing-erp-team)
 
 ---
-### 10. Contacts: ###
+### 9. Contacts: ###
 *  Email: ruhose73@gmail.com
 *  [VK](https://vk.com/chegevarys)
 *  [Telegram](https://t.me/Toropcha)
