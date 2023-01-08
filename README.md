@@ -1,5 +1,5 @@
 1. Summary:
-* Web-developer specializing in back-end development. Experienced with all stages of the development cycle and information security including pentest direction
+> Web-developer specializing in back-end development. Experienced with all stages of the development cycle and information security including pentest direction
 
 ---
 2. Education:
@@ -33,10 +33,14 @@
 
 ---
 6. Experience
-*  **2022 - present** backend developer [GLAVSTUDIO](http://glstd.pro/)
-*  **2019-2021** Junior pentest engineer [ItProtect](https://itprotect.ru/)
-*  **2018-2019** Junior information security engineer [ItProtect](https://itprotect.ru/)
-*  **2017-2019** System administrator [ItProtect](https://itprotect.ru/)
+*  **2022 - present** 
+> backend developer [GLAVSTUDIO](http://glstd.pro/)
+*  **2019-2021** 
+> Junior pentest engineer [ItProtect](https://itprotect.ru/)
+*  **2018-2019** 
+> Junior information security engineer [ItProtect](https://itprotect.ru/)
+*  **2017-2019** 
+> System administrator [ItProtect](https://itprotect.ru/)
 
 ---
 7. Projects
