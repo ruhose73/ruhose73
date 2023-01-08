@@ -3,7 +3,7 @@
 
 ---
 2. Education:
-*  **2022 - present** 
+*  **2022 - present**  
 Master of information systems Obninsk Institute of Nuclear Power Engineering National Research Nuclear University MEPhI
 *  **2018 - 2022**  
 Bachelor of information systems Obninsk Institute of Nuclear Power Engineering National Research Nuclear University MEPhI
@@ -33,13 +33,13 @@ Bachelor of information systems Obninsk Institute of Nuclear Power Engineering N
 
 ---
 6. Experience
-*  **2022 - present** 
+*  **2022 - present**  
 backend developer [GLAVSTUDIO](http://glstd.pro/)
-*  **2019-2021** 
+*  **2019-2021**  
 Junior pentest engineer [ItProtect](https://itprotect.ru/)
-*  **2018-2019** 
+*  **2018-2019**  
 Junior information security engineer [ItProtect](https://itprotect.ru/)
-*  **2017-2019** 
+*  **2017-2019**  
 System administrator [ItProtect](https://itprotect.ru/)
 
 ---
