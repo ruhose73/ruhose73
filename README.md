@@ -1,5 +1,4 @@
-1. Summary:
-
+1. Summary:  
 Junior web-developer specializing in back-end 
 development. Experienced with all stages of the 
 development cycle and information security 
