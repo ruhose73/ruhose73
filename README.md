@@ -32,7 +32,7 @@ Bachelor of information systems Obninsk Institute of Nuclear Power Engineering N
 *  **2022 - present**  
 backend developer [GlavStudio](http://glstd.pro/)
 *  **2019-2021**  
-Freelance backend development
+Freelance backend development  
 Junior pentest engineer [ItProtect](https://itprotect.ru/)
 *  **2018-2019**  
 Junior information security engineer [ItProtect](https://itprotect.ru/)
