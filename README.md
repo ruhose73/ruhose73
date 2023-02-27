@@ -25,12 +25,12 @@ Bachelor of information systems Obninsk Institute of Nuclear Power Engineering N
 ---
 ### 4. Explore ###
 
-*  Kafka
+*  Kafka / RabbitMq
 
 ---
 ### 5. Experience ###
 *  **2022 - present**  
-backend developer [GlavStudio](http://glstd.pro/)
+Backend developer [GlavStudio](http://glstd.pro/)
 *  **2019-2021**  
 Freelance backend development  
 Junior pentest engineer [ItProtect](https://itprotect.ru/)
