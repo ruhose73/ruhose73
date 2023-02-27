@@ -10,8 +10,9 @@ Bachelor of information systems Obninsk Institute of Nuclear Power Engineering N
 
 ---
 ### 3. Skills ###
-*  Javascript / Typescript C / C++
+*  Javascript / Typescript C / C++ / Java
 *  Node.js
+*  Spring
 *  Express / Nest
 *  SQL (PostgreSQL, MySQL)
 *  NoSQL (MongoDB)
@@ -23,7 +24,7 @@ Bachelor of information systems Obninsk Institute of Nuclear Power Engineering N
 
 ---
 ### 4. Explore ###
-*  Java + Spring
+
 *  Kafka
 
 ---
@@ -31,6 +32,7 @@ Bachelor of information systems Obninsk Institute of Nuclear Power Engineering N
 *  **2022 - present**  
 backend developer [GlavStudio](http://glstd.pro/)
 *  **2019-2021**  
+Freelance backend development
 Junior pentest engineer [ItProtect](https://itprotect.ru/)
 *  **2018-2019**  
 Junior information security engineer [ItProtect](https://itprotect.ru/)
@@ -42,9 +44,8 @@ System administrator [ItProtect](https://itprotect.ru/)
 *  [Nest backend](https://github.com/ruhose73/test-backend-nest)
 *  [Express backend](https://github.com/ruhose73/test-backend)
 *  [Universuty Ecosystem Backend](https://github.com/ruhose73/university-ecosystem-back)
-*  [File-sharing (Back-end)](https://github.com/file-sharing-erp-team/file-sharing)
-*  [Grand Core Openschool (Back-end)](https://github.com/grandcore/openschool)
-*  [Last hackaton (Back-end)](https://github.com/badcodeTeam/code)
+*  [Code-templates](https://github.com/ruhose73/Code-templates)
+*  [base-project-mag](https://github.com/ruhose73/base-project-mag)
 
 ---
 ### 7. Competitions ###
@@ -58,6 +59,7 @@ System administrator [ItProtect](https://itprotect.ru/)
 ### 8. Organizations ###
 *  [GrandCore Foundation](https://github.com/grandcore)
 *  [File Sharing Team](https://github.com/file-sharing-erp-team)
+*  [Drinkers Club](https://github.com/drinkers-group)
 
 ---
 ### 9. Contacts: ###
