@@ -46,6 +46,7 @@ System administrator [ItProtect](https://itprotect.ru/)
 *  [Universuty Ecosystem Backend](https://github.com/ruhose73/university-ecosystem-back)
 *  [Code-templates](https://github.com/ruhose73/Code-templates)
 *  [base-project-mag](https://github.com/ruhose73/base-project-mag)
+*  [test-project-gis](https://github.com/ruhose73/test-project-gis)
 
 ---
 ### 7. Competitions ###
