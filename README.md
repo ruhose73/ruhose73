@@ -42,7 +42,6 @@ System administrator [ItProtect](https://itprotect.ru/)
 ---
 ### 6. Projects ###
 *  [Nest backend](https://github.com/ruhose73/test-backend-nest)
-*  [Express backend](https://github.com/ruhose73/test-backend)
 *  [Universuty Ecosystem Backend](https://github.com/ruhose73/university-ecosystem-back)
 *  [Code-templates](https://github.com/ruhose73/Code-templates)
 *  [Base project mag](https://github.com/ruhose73/base-project-mag)
