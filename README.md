@@ -29,7 +29,9 @@ Bachelor of information systems Obninsk Institute of Nuclear Power Engineering N
 
 ---
 ### 5. Experience ###
-*  **2022 - present**  
+*  **2023 - present**  
+Backend developer [Azuro](https://azuro.org/)
+*  **2022 - 2023**  
 Backend developer [GlavStudio](https://glavstudio.pro/)
 *  **2019-2021**  
 Freelance backend development  
