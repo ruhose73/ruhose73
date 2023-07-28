@@ -35,9 +35,9 @@ Backend developer [Azuro](https://azuro.org/)
 Backend developer [GlavStudio](https://glavstudio.pro/)
 *  **2019-2021**  
 Freelance backend development  
-Junior pentest engineer [ItProtect](https://itprotect.ru/)
+Pentest engineer [ItProtect](https://itprotect.ru/)
 *  **2018-2019**  
-Junior information security engineer [ItProtect](https://itprotect.ru/)
+Information security engineer [ItProtect](https://itprotect.ru/)
 *  **2017-2019**  
 System administrator [ItProtect](https://itprotect.ru/)
 
@@ -59,7 +59,8 @@ System administrator [ItProtect](https://itprotect.ru/)
 
 ---
 ### 8. Organizations ###
-*  [GrandCore Foundation](https://github.com/grandcore)
+*  [Azuro](https://github.com/Azuro-protocol)
+*  [BadcodeTeam](https://github.com/badcodeTeam)
 *  [File Sharing Team](https://github.com/file-sharing-erp-team)
 *  [Drinkers Club](https://github.com/drinkers-group)
 
@@ -68,3 +69,4 @@ System administrator [ItProtect](https://itprotect.ru/)
 *  Email: ruhose73@gmail.com
 *  [VK](https://vk.com/chegevarys)
 *  [Telegram](https://t.me/Toropcha)
+*  [Linkedin](https://www.linkedin.com/in/ruhose73/)
