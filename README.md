@@ -20,6 +20,7 @@ Bachelor of information systems Obninsk Institute of Nuclear Power Engineering N
 *  Swagger
 *  Docker
 *  Redis
+*  RabbitMq
 *  Nginx
 
 ---
