@@ -26,7 +26,7 @@ Bachelor of information systems Obninsk Institute of Nuclear Power Engineering N
 ---
 ### 4. Explore ###
 
-*  Kafka / RabbitMq
+*  [The Graph](https://thegraph.com/ru/)
 
 ---
 ### 5. Experience ###
