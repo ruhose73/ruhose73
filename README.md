@@ -15,9 +15,9 @@ Bachelor of information systems Obninsk Institute of Nuclear Power Engineering N
 *  Spring
 *  Express / Nest / Fastify / The Graph
 *  SQL (PostgreSQL, MySQL)
-*  PostGis
 *  NoSQL (MongoDB)
 *  Sequelize / TypeORM / Prisma
+*  PostGis
 *  Swagger
 *  Docker
 *  Redis
