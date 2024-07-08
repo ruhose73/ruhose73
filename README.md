@@ -3,30 +3,25 @@
 
 ---
 ### 2. Education: ###
-*  **2022 - present**  
+*  **2022 - 2024**  
 Master of information systems Obninsk Institute of Nuclear Power Engineering National Research Nuclear University MEPhI
 *  **2018 - 2022**  
 Bachelor of information systems Obninsk Institute of Nuclear Power Engineering National Research Nuclear University MEPhI
 
 ---
 ### 3. Skills ###
-*  Javascript / Typescript C / C++ / Java
+*  Javascript / Typescript C / Java
 *  Node.js
 *  Spring
-*  Express / Nest
+*  Express / Nest / Fastify / The Graph
 *  SQL (PostgreSQL, MySQL)
 *  NoSQL (MongoDB)
-*  Sequelize / TypeORM
+*  Sequelize / TypeORM / Prisma
 *  Swagger
 *  Docker
 *  Redis
 *  RabbitMq
 *  Nginx
-
----
-### 4. Explore ###
-
-*  [The Graph](https://thegraph.com/ru/)
 
 ---
 ### 5. Experience ###
