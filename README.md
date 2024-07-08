@@ -25,7 +25,7 @@ Bachelor of information systems Obninsk Institute of Nuclear Power Engineering N
 *  Nginx
 
 ---
-### 5. Experience ###
+### 4. Experience ###
 *  **2023 - present**  
 Backend developer [Azuro](https://azuro.org/)
 *  **2022 - 2023**  
@@ -39,7 +39,7 @@ Information security engineer [ItProtect](https://itprotect.ru/)
 System administrator [ItProtect](https://itprotect.ru/)
 
 ---
-### 6. Projects ###
+### 5. Projects ###
 *  [Nest backend](https://github.com/ruhose73/test-backend-nest)
 *  [Universuty Ecosystem Backend](https://github.com/ruhose73/university-ecosystem-back)
 *  [Code-templates](https://github.com/ruhose73/Code-templates)
@@ -47,7 +47,7 @@ System administrator [ItProtect](https://itprotect.ru/)
 *  [Test project gis](https://github.com/ruhose73/test-project-gis)
 
 ---
-### 7. Competitions ###
+### 6. Competitions ###
 *  **2022** - Digital breakthrough
 *  **2021** - Digital breakthrough
 *  **2020** - Digital breakthrough
@@ -55,14 +55,14 @@ System administrator [ItProtect](https://itprotect.ru/)
 *  **2019** - Digital breakthrough
 
 ---
-### 8. Organizations ###
+### 7. Organizations ###
 *  [Azuro](https://github.com/Azuro-protocol)
 *  [BadcodeTeam](https://github.com/badcodeTeam)
 *  [File Sharing Team](https://github.com/file-sharing-erp-team)
 *  [Drinkers Club](https://github.com/drinkers-group)
 
 ---
-### 9. Contacts: ###
+### 8. Contacts: ###
 *  Email: ruhose73@gmail.com
 *  [VK](https://vk.com/chegevarys)
 *  [Telegram](https://t.me/Toropcha)
