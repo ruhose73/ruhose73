@@ -3,7 +3,7 @@
 
 ---
 ### 2. Education: ###
-*  **2024 - present**  
+*  **2024 - 2027**  
 Postgraduate studies in System Analysis and Information Processing Obninsk Institute of Atomic Energy National Research Nuclear University MEPhI
 *  **2022 - 2024**  
 Master of information systems Obninsk Institute of Nuclear Power Engineering National Research Nuclear University MEPhI
