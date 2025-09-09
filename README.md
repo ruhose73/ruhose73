@@ -55,11 +55,7 @@ System administrator / Pentest engineer [ItProtect](https://itprotect.ru/)
 *  **2018** - HackAtom
 
 ---
-### 7. Organizations ###
-*  [Azuro](https://github.com/Azuro-protocol)
-
----
-### 8. Contacts: ###
+### 7. Contacts: ###
 *  Email: ruhose73@gmail.com
 *  [Telegram](https://t.me/Toropcha)
 *  [Linkedin](https://www.linkedin.com/in/ruhose73/)
