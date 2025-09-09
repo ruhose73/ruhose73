@@ -35,20 +35,14 @@ Obninsk Institute of Nuclear Power Engineering National Research Nuclear Univers
 Backend developer [Azuro](https://azuro.org/)
 *  **2022 - 2023**  
 Backend developer [GlavStudio](https://glavstudio.pro/)
-*  **2019-2021**  
+*  **2017-2021**  
 Freelance backend development  
-Pentest engineer [ItProtect](https://itprotect.ru/)
-*  **2018-2019**  
-Information security engineer [ItProtect](https://itprotect.ru/)
-*  **2017-2019**  
-System administrator [ItProtect](https://itprotect.ru/)
+System administrator / Pentest engineer [ItProtect](https://itprotect.ru/)
 
 ---
-### 5. Projects ###
+### 5. Code templates ###
 *  [Nest backend](https://github.com/ruhose73/test-backend-nest)
-*  [Universuty Ecosystem Backend](https://github.com/ruhose73/university-ecosystem-back)
 *  [Code-templates](https://github.com/ruhose73/Code-templates)
-*  [Base project mag](https://github.com/ruhose73/base-project-mag)
 *  [Test project gis](https://github.com/ruhose73/test-project-gis)
 
 ---
@@ -58,17 +52,14 @@ System administrator [ItProtect](https://itprotect.ru/)
 *  **2020** - Digital breakthrough
 *  **2020** - HackAtom
 *  **2019** - Digital breakthrough
+*  **2018** - HackAtom
 
 ---
 ### 7. Organizations ###
 *  [Azuro](https://github.com/Azuro-protocol)
-*  [BadcodeTeam](https://github.com/badcodeTeam)
-*  [File Sharing Team](https://github.com/file-sharing-erp-team)
-*  [Drinkers Club](https://github.com/drinkers-group)
 
 ---
 ### 8. Contacts: ###
 *  Email: ruhose73@gmail.com
-*  [VK](https://vk.com/chegevarys)
 *  [Telegram](https://t.me/Toropcha)
 *  [Linkedin](https://www.linkedin.com/in/ruhose73/)
